@@ -41,9 +41,8 @@ python3 report_gen.py      # Generate full report
 
 ## Sample Output
 
-
-
 =============================================
+
 Network Status Check
 2026-05-14 12:31:18
 [UP]   VMware Gateway (192.168.233.2)
@@ -52,6 +51,5 @@ Network Status Check
 Total: 2 UP | 1 DOWN
 
 
-
 ## Author
-Satyam Deshmukh  — CCNA Student | Networking + Python Automation
+Satyam Deshmukh  — Student | Networking + Python Automation
