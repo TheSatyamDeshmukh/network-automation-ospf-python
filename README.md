@@ -6,12 +6,19 @@ designed in Cisco Packet Tracer.
 
 ## Project Structure
 network-automation-ospf-python/
+
 ├── scripts/
+ 
 │   ├── ping_check.py      # Device status checker
+
 │   ├── ip_scanner.py      # Subnet host scanner
+
 │   └── report_gen.py      # Automated report generator
+
 ├── reports/               # Auto-generated network reports
+
 ├── topology/              # Packet Tracer screenshots
+
 └── README.md
 
 ## Features
